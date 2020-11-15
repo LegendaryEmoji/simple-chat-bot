@@ -21,6 +21,7 @@ By Donating, You Will Help Me To Maintain This Bot!
 
 - [Paypal](https://www.paypal.com/paypalme/legendaryemoji)
 - [Patreon](https://www.patreon.com/LegendaryEmoji)
+- [Ko-Fi](https://ko-fi.com/LegendaryEmoji)
 
 ### Other
 
