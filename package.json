@@ -4,11 +4,14 @@
   "description": "A Simple Discord Chat Bot!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LegendaryEmoji/simple-chat-bot.git"
+  },
+  "engines": {
+    "node": "12.x"
   },
   "keywords": [
     "Node.js",
@@ -17,13 +20,13 @@
     "Emo"
   ],
   "author": "Legendary Emoji#1742",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/LegendaryEmoji/simple-chat-bot/issues"
   },
   "homepage": "https://github.com/LegendaryEmoji/simple-chat-bot#readme",
   "dependencies": {
-    "discord.js": "^12.4.1",
-    "got": "^11.8.0"
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
   }
 }
