@@ -8,10 +8,12 @@ A Simple Discord Chat Bot Using [Discord.js](https://www.npmjs.com/package/disco
 
 ### installation
 
-- Download / Export This Repository & Make Sure To Install [Node.js](https://nodejs.org/en/)
+- Download / Export This Repository & Make Sure To Install [Node.js](https://nodejs.org/en/) & [Visual Studio Code (Only If You Don't Have Any Code Editor)](https://code.visualstudio.com/)
+- Open Project In Visual Studio Code & To Open Console / Terminal - **Ctrl + A**
 - In Your Project Terminal / Console Type This - **npm i**
-- And Wait After That Go To Config.js
-- Fill Information & In Your Terminal / Console Type This - **_node ._** Or **_node index.js_**
+- And Wait For Them (Packages) To Install...
+- After Installing Done, Go To Config.js And
+- Fill Information & After That Type This In Your Console / Terminal - **_node ._** Or **_node index.js_**
 - When Bot Is Ready, You Will See A Message In Console
 - Enjoy <3
 
@@ -25,10 +27,10 @@ By Donating, You Will Help Me To Maintain This Bot!
 
 ### Other
 
--  Author - Legendary Emoji#1742
+- Author - Legendary Emoji#1742
 
 - [Discord Server](https://discord.gg/umMpnqS)
 
-- [Snowflake Api](https://api.snowflakedev.xyz/)
+- [Snowflake Api](http://api.snowflakedev.cf:9019/)
 
 - [MIT License](https://github.com/LegendaryEmoji/simple-chat-bot/blob/main/LICENSE)
