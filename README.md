@@ -9,11 +9,11 @@ A Simple Discord Chat Bot Using [Discord.js](https://www.npmjs.com/package/disco
 ### installation
 
 - Download / Export This Repository & Make Sure To Install [Node.js](https://nodejs.org/en/) & [Visual Studio Code (Only If You Don't Have Any Code Editor)](https://code.visualstudio.com/)
-- Open Project In Visual Studio Code & To Open Console / Terminal - **Ctrl + A**
+- Open Project In Visual Studio Code (Editor) & To Open Console / Terminal - **Ctrl + A**
 - In Your Project Terminal / Console Type This - **npm i**
 - And Wait For Them (Packages) To Install...
 - After Installing Done, Go To Config.js And
-- Fill Information & After That Type This In Your Console / Terminal - **_node ._** Or **_node index.js_**
+- Fill Information & After That Type This In Your Terminal / Console - **_node ._** Or **_node server.js_**
 - When Bot Is Ready, You Will See A Message In Console
 - Enjoy <3
 
