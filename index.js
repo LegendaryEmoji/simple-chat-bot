@@ -23,7 +23,7 @@ Client.on("message", async message => {
         try {
             const res = await Fetch(`http://api.snowflakedev.cf:9019/api/chatbot?message=${encodeURIComponent(message.content)}`, {
                 headers: {
-                    "Authorization": String(SnowflakeApiToken)
+                    "Authorization": SnowflakeApiToken
                 }
             }); // https://discord.gg/uqB8kxh
             const json = await res.json(); 
