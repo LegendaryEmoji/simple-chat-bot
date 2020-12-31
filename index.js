@@ -21,7 +21,7 @@ Client.on("message", async message => {
 
     if (message.content) {
         try {
-            const res = await Fetch(`http://api.snowflakedev.cf:9019/api/chatbot?message=${encodeURIComponent(message.content)}`, {
+            const res = await Fetch(`http://api.snowflakedev.cf:8342/api/chatbot?message=${encodeURIComponent(message.content)}`, {
                 headers: {
                     "Authorization": SnowflakeApiToken
                 }
