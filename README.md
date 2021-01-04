@@ -31,6 +31,6 @@ By Donating, You Will Help Me To Maintain This Bot!
 
 - [Discord Server](https://discord.gg/umMpnqS)
 
-- [Snowflake Api](http://api.snowflakedev.cf:8342/)
+- [Snowflake Api](https://api.snowflakedev.xyz/)
 
 - [MIT License](https://github.com/LegendaryEmoji/simple-chat-bot/blob/main/LICENSE)
