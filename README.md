@@ -13,7 +13,7 @@ A Simple Discord Chat Bot Using [Discord.js](https://www.npmjs.com/package/disco
 - In Your Project Terminal / Console Type This - **npm i**
 - And Wait For Them (Packages) To Install...
 - After Installing Done, Go To Config.js And
-- Fill Information & After That Type This In Your Terminal / Console - **_node ._** Or **_node server.js_**
+- Fill Information & After That Type This In Your Terminal / Console - **_node ._** Or **_node index.js_**
 - When Bot Is Ready, You Will See A Message In Console
 - Enjoy <3
 
